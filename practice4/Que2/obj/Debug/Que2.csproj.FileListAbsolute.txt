@@ -1,0 +1,16 @@
+C:\practice4\practice4\Que2\bin\Debug\Que2.exe.config
+C:\practice4\practice4\Que2\bin\Debug\Que2.exe
+C:\practice4\practice4\Que2\bin\Debug\Que2.pdb
+C:\practice4\practice4\Que2\obj\Debug\Que2.csproj.AssemblyReference.cache
+C:\practice4\practice4\Que2\obj\Debug\Que2.csproj.SuggestedBindingRedirects.cache
+C:\practice4\practice4\Que2\obj\Debug\MainWindow.g.cs
+C:\practice4\practice4\Que2\obj\Debug\App.g.cs
+C:\practice4\practice4\Que2\obj\Debug\Que2_MarkupCompile.cache
+C:\practice4\practice4\Que2\obj\Debug\Que2_MarkupCompile.lref
+C:\practice4\practice4\Que2\obj\Debug\MainWindow.baml
+C:\practice4\practice4\Que2\obj\Debug\Que2.g.resources
+C:\practice4\practice4\Que2\obj\Debug\Que2.Properties.Resources.resources
+C:\practice4\practice4\Que2\obj\Debug\Que2.csproj.GenerateResource.cache
+C:\practice4\practice4\Que2\obj\Debug\Que2.csproj.CoreCompileInputs.cache
+C:\practice4\practice4\Que2\obj\Debug\Que2.exe
+C:\practice4\practice4\Que2\obj\Debug\Que2.pdb
