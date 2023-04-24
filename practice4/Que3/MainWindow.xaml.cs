@@ -40,7 +40,7 @@ namespace Que3
                     R = Convert.ToInt32(NumberCC.Text);
                     D = 2 * R;
                     L = 2 * p * R;
-                    S = 2 * Math.Pow(R, 2);
+                    S = p * Math.Pow(R, 2);
                     NAnswer.Content = " 2. = " + D + "\n 3. = " + L + "\n 4. = " + S;
                     break;
 
@@ -49,7 +49,7 @@ namespace Que3
                     D = Convert.ToInt32(NumberCC.Text);
                     R = D / 2;
                     L = 2 * p * R;
-                    S = 2 * Math.Pow(R, 2);
+                    S = p * Math.Pow(R, 2);
                     NAnswer.Content = " 1. = " + R + "\n 3. = " + L + "\n 4. = " + S;
                     break;
 
@@ -58,7 +58,7 @@ namespace Que3
                     L = Convert.ToInt32(NumberCC.Text);
                     R = L / 2 / p;
                     D = 2 * R;
-                    S = 2 * Math.Pow(R, 2);
+                    S = p * Math.Pow(R, 2);
                     NAnswer.Content = " 1. = " + R + "\n 2. = " + D + "\n 4. = " + S;
                     break;
 
